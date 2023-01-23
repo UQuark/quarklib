@@ -1,0 +1,4 @@
+qconf.test.key=value1
+qconf.test.prefix.a=value2
+qconf.test.prefix.b=value3
+qconf.garbage=value4
